@@ -2,22 +2,22 @@
     <h1><?php echo $judul ?></h1>
     <h4>Nama</h4>
     <ul type="disc">
-        <li>Nama Depan : Imam</li>
-        <li>Nama Belakang : Nawawi</li>
+        <li>Nama Depan : Rizki</li>
+        <li>Nama Belakang : Agung Sentosa</li>
     </ul>
     <br>
     <h4>ALamat</h4>
     <ul type="none">
-        <li>Jalan Ciledug Raya No. 168 Pesanggrahan</li>
+        <li>Jalan Ciapus Kp.Batugede Rt.01 Rw.14</li>
     </ul>
 
     <h4>Tempat Lahir</h4>
     <ul type="none">
-        <li>Cirebon</li>
+        <li>Bogor</li>
     </ul>
-    <h4>Olah Raga Favorit</h4>
+    <h4>Hobby</h4>
     <ul type="square">
-        <li>Bulutangkis</li>
-        <li>Catur</li>
+        <li>Main Komputer</li>
+        <li>Game</li>
     </ul>
 </section>
